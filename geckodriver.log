@@ -1,0 +1,387 @@
+1645142662598	geckodriver	INFO	Listening on 127.0.0.1:57505
+1645145535374	geckodriver	INFO	Listening on 127.0.0.1:53090
+1645145538314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53091" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileS3l4Ts"
+1645145540594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileS3l4Ts\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53091/devtools/browser/76cef84d-cef6-4288-9b9b-045414ed7fa4
+1645145548935	Marionette	INFO	Listening on port 53097
+1645145549873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645145567633	Marionette	INFO	Stopped listening on port 53097
+[Parent 13064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1645145617451	geckodriver	INFO	Listening on 127.0.0.1:53185
+1645145620484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53186" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofilexpi7Cb"
+1645145621609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofilexpi7Cb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53186/devtools/browser/54e18ab9-2eb3-47e4-9d06-5c97d68cb899
+1645145626728	Marionette	INFO	Listening on port 53192
+1645145626769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645146432356	Marionette	INFO	Stopped listening on port 53192
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53676" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileUn0cQb"
+1645146425126	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileUn0cQb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53676/devtools/browser/51bb4f35-eaac-4ef7-b6c7-e781c538f2b1
+1645146433495	Marionette	INFO	Listening on port 53690
+1645146433980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645146452416	Marionette	INFO	Stopped listening on port 53690
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645146456605	geckodriver	INFO	Listening on 127.0.0.1:53773
+1645146459655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53774" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofiley0CzSc"
+1645146465468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofiley0CzSc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53774/devtools/browser/451e88d6-3cbf-4bba-99aa-46c686aeef21
+1645146476069	Marionette	INFO	Listening on port 53780
+1645146476449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1645389589188	Marionette	INFO	Stopped listening on port 53780
+[Parent 9300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+fileNWamhH"
+1645147112448	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileNWamhH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54167/devtools/browser/84c64498-e7a3-4cbd-b503-440137448e9a
+1645147118990	Marionette	INFO	Listening on port 54176
+1645147119493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\luane\AppData\Local\Temp\rust_mozprofileNWamhH\bookmarkbackups\bookmarks-2022-02-19.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\luane\AppData\Local\Temp\rust_mozprofileNWamhH\bookmarkbackups\bookmarks-2022-02-19.jsonlz4) because it does not exist
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:132:26
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineErro1645292258939	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1645378210235	Marionette	INFO	Stopped listening on port 54259
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:548:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+1645292142061	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1645378204910	Marionette	INFO	Stopped listening on port 54176
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PBackgroundParent] Error: Send(msgname=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][PBackgroundParent] Error: Send(msgname=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+1649982549692	geckodriver	INFO	Listening on 127.0.0.1:62156
+1649982553311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62157" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileuGIjM9"
+1649982564458	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileuGIjM9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62157/devtools/browser/1d9be42a-4e5b-4d26-ae9b-034232fe6a93
+1649982585987	Marionette	INFO	Listening on port 62162
+1649982586313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650102206874	Marionette	INFO	Stopped listening on port 62162
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650103132216	geckodriver	INFO	Listening on 127.0.0.1:64520
+1650103135341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64521" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofile1iIZGx"
+1650103136233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofile1iIZGx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64521/devtools/browser/f0f0620f-c04e-4fa9-b314-b9464862718d
+1650103139734	Marionette	INFO	Listening on port 64526
+1650103140622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650103149758	Marionette	INFO	Stopped listening on port 64526
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1650103796929	geckodriver	INFO	Listening on 127.0.0.1:64622
+1650103800048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64623" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileoBknnW"
+1650103800495	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileoBknnW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64623/devtools/browser/e989dff8-3839-4039-9ce9-933fac6d80ca
+1650103803836	Marionette	INFO	Listening on port 64628
+1650103804268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650149458753	Marionette	INFO	Stopped listening on port 64628
+1654622089745	geckodriver	INFO	Listening on 127.0.0.1:61897
+1654622093597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileBEClEE"
+1654622099402	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileBEClEE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61898/devtools/browser/4d334240-292d-408f-b178-d52ec790ed03
+1654622117790	Marionette	INFO	Listening on port 61928
+Read port: 61928
+1654622117972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654622578945	Marionette	INFO	Stopped listening on port 61928
+[Parent 14576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[2022-06-07T17:22:59Z ERROR bitsdownload::bits_interface::monitor] Unable to dispatch to thread: NS_ERROR_ILLEGAL_DURING_SHUTDOWN
+1654622587117	geckodriver	INFO	Listening on 127.0.0.1:61998
+1654622590157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofilefF1VKf"
+1654622591320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofilefF1VKf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61999/devtools/browser/b1de50d7-bd40-4f86-afe4-7948831a3110
+1654622594290	Marionette	INFO	Listening on port 62021
+Read port: 62021
+1654622594339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654623250986	Marionette	INFO	Stopped listening on port 62021
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[2022-06-07T17:34:11Z ERROR bitsdownload::bits_interface::monitor] Unable to dispatch to thread: NS_ERROR_ILLEGAL_DURING_SHUTDOWN
+le exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofilelOsYbP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62567/devtools/browser/aea40b34-9213-42d2-ae5f-b4a4db2dd1f0
+1654623250147	Marionette	INFO	Listening on port 62592
+Read port: 62592
+1654623250193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654624471022	Marionette	INFO	Stopped listening on port 62592
+e-debugging-port" "62642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofile0sopwa"
+1654623639400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofile0sopwa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62642/devtools/browser/8a991fa5-4dbc-486d-a400-6db2576257d8
+1654623642851	Marionette	INFO	Listening on port 62679
+Read port: 62679
+1654623643589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654624471022	Marionette	INFO	Stopped listening on port 62679
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1654624474010	geckodriver	INFO	Listening on 127.0.0.1:62784
+1654624477034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileCQia53"
+1654624477566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luane\\AppData\\Local\\Temp\\rust_mozprofileCQia53\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62785/devtools/browser/c91f8fdd-369c-4c6c-9d0c-2a67c23711a7
+1654624480666	Marionette	INFO	Listening on port 62809
+Read port: 62809
+1654624480918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iezw4/ye/l/pt_BR/ELk19kgHKfe.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
